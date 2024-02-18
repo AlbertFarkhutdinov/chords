@@ -18,6 +18,3 @@
 ## Contact
 
 If you want to contact me you can reach me at `albertfarhutdinov@gmail.com`.
-
-## License
-This project uses the following license: [MIT License](https://github.com/AlbertFarkhutdinov/pretty_repr/blob/main/LICENSE).
