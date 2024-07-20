@@ -1,189 +1,76 @@
-[Intro]
-C#m F#m A B
-C#m F#m A B
- 
-[Verse 1]
-    C#m                 F#m
-The club isn't the best place to find a lover
-       A              B
-So the bar is where I go (mm-mm-mm-mm)
-C#m                      F#m
+Intro(x2):|C#m|F#m|A|H|
+
+         C#m                 F#m
+1. The club isn't the best place to find a lover
+       A              H
+So the bar is where I go.
 Me and my friends at the table doing shots
-         A                B
-Drinking fast and then we talk slow (mm-mm-mm-mm)
-     C#m                       F#m
+Drinking fast and then we talk slow.
 Come over and start up a conversation with just me
-    A                       B
-And trust me I'll give it a chance now
-        C#m                    F#m
+And trust me I'll give it a chance now.
 Take my hand, stop, put Van the man on the jukebox
-    A                B
 And then we start to dance, and now I'm singing like
  
-[Pre-Chorus]
-C#m              F#m
+Pre-Chorus:
+ C#m              F#m
 Girl, you know I want your love
-A                      B                 C#m
+  A                      H 
 Your love was handmade for somebody like me
-             F#m
 Come on now, follow my lead
-A               B
 I may be crazy, don't mind me, say
-C#m            F#m
 Boy, let's not talk too much
-A                    B                C#m
 Grab on my waist and put that body on me
-             F#m
 Come on now, follow my lead
-     A*                     N.C.
-Come-come on now, follow my lead, mm-mm-mm
+Come-come on now, follow my lead.
  
-[Chorus]
-C#m      F#m                    A
-  I'm in love with the shape of you
-            B                  C#m
+Chorus:
+ C#m       F#m
+I'm in love with the shape of you
+ A            H 
 We push and pull like a magnet do
-            F#m              A
 Although my heart is falling too
-       B                 C#m
 I'm in love with your body
-         F#m                  A
 And last night you were in my room
-           B                    C#m
 And now my bedsheets smell like you
-                 F#m                  A
 Every day discovering something brand new
-             B                 C#m
 Well, I'm in love with your body
  
-          F#m       A           B               C#m
-oh I oh I oh I oh I    I'm in love with your body
-          F#m       A           B               C#m
-oh I oh I oh I oh I    I'm in love with your body
-          F#m       A           B               C#m
-oh I oh I oh I oh I    I'm in love with your body
-                 F#m                  A
+Post-Chorus:
+ C#m          F#m
+oh I oh I oh I oh I           
+ A           H
+I'm in love with your body.
+oh I oh I oh I oh I    
+I'm in love with your body.
+oh I oh I oh I oh I    
+I'm in love with your body.
 Every day discovering something brand new
-       B
-I'm in love with the shape of you
+I'm in love with the shape of you.
  
-[Verse 2]
-C#m                    F#m
-One week in we let the story begin
-            A                B
+2. One week in we let the story begin
 We're going out on our first date
-        C#m                   F#m
 You and me are thrifty, so go all you can eat
-             A                   B
 Fill up your bag and I fill up a plate
-            C#m                       F#m
 We talk for hours and hours about the sweet and the sour
-             A                B
 And how your family is doin' okay
-              C#m             F#m
 Leave and get in a taxi, then kiss in the backseat
-         A                     B
 Tell the driver make the radio play, and I'm singing like
  
-[Pre-Chorus]
-C#m              F#m
-Girl, you know I want your love
-A                      B                 C#m
-Your love was handmade for somebody like me
-             F#m
-Come on now, follow my lead
-A               B
-I may be crazy, don't mind me, say
-C#m              F#m
-Boy, let's not talk too much
-A                    B                C#m
-Grab on my waist and put that body on me
-             F#m
-Come on now, follow my lead
-     A*                     N.C.
-Come-come on now, follow my lead, mm-mm-mm
+Pre-Chorus.
  
-[Chorus]
-C#m      F#m                    A
-  I'm in love with the shape of you
-            B                  C#m
-We push and pull like a magnet do
-            F#m              A
-Although my heart is falling too
-       B                 C#m
-I'm in love with your body
-         F#m                  A
-And last night you were in my room
-           B                    C#m
-And now my bedsheets smell like you
-                 F#m                  A
+Chorus.
+ 
+Post-Chorus.
+ 
+Bridge(x8):
+Come on, be my baby, come on!
+ 
+Chorus.
+ 
+Bridge(x3):
+(Come on, be my baby, come on)
+(Come on, be my baby, come on) I'm in love with your body
+
+Outro:
 Every day discovering something brand new
-             B
-Well, I'm in love with your body
- 
-          F#m       A           B               C#m
-oh I oh I oh I oh I    I'm in love with your body
-          F#m       A           B               C#m
-oh I oh I oh I oh I    I'm in love with your body
-          F#m       A           B               C#m
-oh I oh I oh I oh I    I'm in love with your body
- 
-                 F#m                  A
-Every day discovering something brand new
-       B
-I'm in love with the shape of you
- 
-[Bridge]
-N.C.
-  Come on, be my baby, come on
-N.C.
-  Come on, be my baby, come on
-N.C.
-  Come on, be my baby, come on
-N.C.
-  Come on, be my baby, come on
-C#m              F#m
-  Come on, be my baby, come on
-A                B
-  Come on, be my baby, come on
-C#m              F#m
-  Come on, be my baby, come on
-N.C.
-  Come on, be my baby, come on
- 
-[Chorus]
-C#m      F#m                    A
-  I'm in love with the shape of you
-            B                  C#m
-We push and pull like a magnet do
-            F#m              A
-Although my heart is falling too
-       B                 C#m
-I'm in love with your body
-         F#m                  A
-And last night you were in my room
-           B                    C#m
-And now my bedsheets smell like you
-                 F#m                  A
-Every day discovering something brand new
-             B
-Well, I'm in love with your body
- 
-[Bridge 2]
-C#m              F#m
-  (Come on, be my baby, come on) 
-A                B
-  (Come on, be my baby, come on) I'm in love with your body
-C#m              F#m
-  (Come on, be my baby, come on)
-A                B
-  (Come on, be my baby, come on) I'm in love with your body
-C#m              F#m
-  (Come on, be my baby, come on)
-A                B
-  (Come on, be my baby, come on) I'm in love with your body
- 
-C#m               F#m                  A
- Every day discovering something brand new
-       B*            N.C.
 I'm in love with the shape of you

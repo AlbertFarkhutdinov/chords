@@ -1,56 +1,36 @@
-[Intro]
-Em C G D/F#  x4
+Intro(x4):|Em|C|G|D/F#|
  
-[Verse 1]
-Em       C                G                D/F#
-Another head hangs lowly, child is slowly taken
-Em               C                    G               D/F#
-And the violence caused such silence, who are we mistaken 
-        Em                        C
+     Em       C                
+1. Another head hangs lowly, 
+G                D/F#
+Child is slowly taken
+And the violence caused such silence, 
+Who are we mistaken 
 But you see it's not me, it's not my family
-        G                               D/F#
 In your head, in your head, they are fighting 
-           Em                              C
 With their tanks and their bombs and their bombs and their guns 
-         G                             D/F#
 in your head, in your head, they are crying
  
-[Chorus 1]
+Chorus:
         Em            C            G             D/F#
-In your head, in your head, zombie, zombie, zombie 
+In your head, in your head, zombie, zombie, zombie.
                Em            C            G             D/F#
-What's in your head, in your head, zombie, zombie, zombie 
+What's in your head, in your head, zombie, zombie, zombie.
  
-[Instrumental]
-Em C G D/F# x2
+Interlude(x2):|Em|C|G|D/F#|
  
-[Verse 2]
-Em        C                  G              D/F#
-Another mother's breaking heart is taking over
-Em                C               G            D/F#
-When the violence causes silence, we must be mistaken
-         Em                   C
+2. Another mother's breaking 
+heart is taking over
+When the violence causes silence, 
+we must be mistaken
 It's the same old theme since 1916
-        G                                  D/F#
 In your head, in your head, they're still fighting
-           Em                              C
 With their tanks and their bombs and their bombs and their guns
-        G                            D/F#
 In your head, in your head, they're dying
  
-[Chorus 2]
-        Em            C            G             D/F#
-In your head, in your head, zombie, zombie, zombie 
-               Em            C            G             D/F#
-What's in your head, in your head, zombie, zombie, zombie 
+Chorus.
  
-[Instrumental]
-Em C G D/F# x2
-Em C Em C x2
- 
-[Solo]
-Em C G D/F# x3
- 
-[Outro]
-Em C Em C
-Em C Em
+Interlude(x2):|Em|C|G|D/F#|
+Interlude(x2):|Em|C|Em|C|
+Solo(x3):|Em|C|G|D/F#|
+Outro(x2):|Em|C|Em|C|

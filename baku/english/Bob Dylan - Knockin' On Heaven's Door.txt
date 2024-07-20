@@ -1,49 +1,23 @@
-[Intro]
-G    D     Am    G    D     C
-                   Oo oo-oo oo
-G    D     Am    G    D     C
-  Oo oo-oo oo      Oo oo-oo oo
- 
-[Verse 1]
-G                D                Am
-  Mama take this badge off of me
+Intro(x2):|G|D|Am|G|D|C|
+
+  G                D                Am
+1. Mama take this badge off of me.
 G         D               C
-  I can't use it anymore
-G              D                      Am
-  It's getting dark, too dark to see
-G            D                     C
-  I feel I'm knockin on heaven's door
+I can't use it anymore.
+It's getting dark, too dark to see.
+I feel I'm knockin on heaven's door.
  
-[Chorus]
+Chorus(x2):
 G               D                    Am
-  Knock, knock, knockin' on heaven's door
+Knock, knock, knockin' on heaven's door
 G               D                    C
-  Knock, knock, knockin' on heaven's door
-G               D                    Am
-  Knock, knock, knockin' on heaven's door
-G               D                    C
-  Knock, knock, knockin' on heaven's door
+Knock, knock, knockin' on heaven's door
  
-[Verse 2]
-G             D                   Am
-  Mama put my guns in the ground
-G         D               C
-  I can't shoot them anymore
-G                 D               Am
-  That long black cloud is comin' down
-G            D                      C
-  I feel I'm knockin' on heaven's door
+2. Mama put my guns in the ground.
+I can't shoot them anymore.
+That long black cloud is comin' down.
+I feel I'm knockin' on heaven's door.
  
-[Chorus]
-G               D                    Am
-  Knock, knock, knockin' on heaven's door
-G               D                    C
-  Knock, knock, knockin' on heaven's door
-G               D                    Am
-  Knock, knock, knockin' on heaven's door
-G               D                    C
-  Knock, knock, knockin' on heaven's door
+Chorus(x2).
  
-[Outro]
-G    D     Am    G
-  Oo oo-oo oo   (fade)
+Outro:|G|D|Am|G|

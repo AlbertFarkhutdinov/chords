@@ -1,17 +1,17 @@
     D       Am
-1.Ocean blue 
+1. Ocean blue 
       C     Em
 What have I done to you
 Cut so deep    
 Yet growing through and through
 
-Проигрыш:|D|Am|C|Em|
-         |D|Am|C|
+Interlude:|D|Am|C|Em|
+          |D|Am|C|
 
-Проигрыш:|D|Am|C|Em|
-         |D|Am|C|Em|
+Interlude:|D|Am|C|Em|
+          |D|Am|C|Em|
 
-2.Drawn apart
+2. Drawn apart
 New York and London
 All I see now
 Are distant drumlins
@@ -21,7 +21,7 @@ Then I wonder
           G
 Will you wait for me, oh
 
-Припев:
+Chorus:
  C
 Though
          Am
@@ -30,19 +30,15 @@ I'm far away
 I know I'll stay, I know I'll stay
                   G
 Right there with you
-  C
 Though
-               Am
 It might be too late
-                Em 
 What would you say? What would you say?
-              G
 What would you do?
 
-Проигрыш:|D|Am|C|Em|
-         |D|Am|C|Em|
+Interlude:|D|Am|C|Em|
+          |D|Am|C|Em|
 
-3.I built a hive
+3. I built a hive
 Became one with the bees
 But we fell like rain
 Got lost into the sea
@@ -50,7 +46,7 @@ If I don't know
 The wind will carry me
 So just hold tight
 
-Припев.
+Chorus.
 
  C                     Em
 Over and over many setting suns
@@ -59,6 +55,6 @@ I have run, I have waited for the rain to come
 When through that mist I see the shape of you
 And I know, and I know that I'm in love with you 
 
-Соло(x2):|C|Am|Em|G|
+Solo(x2):|C|Am|Em|G|
 
-Припев.
+Chorus.

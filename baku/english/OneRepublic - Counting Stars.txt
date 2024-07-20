@@ -3,7 +3,7 @@ Capo on 3th fret.
 Chorus:
   Am                 C
 Lately, I've been, I've been losing sleep
-G                              F
+  G                              F
 Dreaming about the things that we could be
 But baby, I've been, I've been praying hard,
 Said, no more counting dollars, We'll be counting stars,
@@ -12,8 +12,8 @@ Yeah, we'll be counting stars.
 
 Interlude(x2):|Am|C|G|F|
 
-            Am
-1.I see this life like a swinging vine
+               Am
+1. I see this life like a swinging vine
   C
 Swing my heart across the line
  G
@@ -26,7 +26,7 @@ I don't think the world is sold
 I'm just doing what we're told
 
 Pre-chorus:
-Am C                G
+ Am C                G
 I feel something so right
           F
 Doing the wrong thing
@@ -41,7 +41,7 @@ Chorus(x2).
 
 Interlude:|Am|C|G|F|
 
-2.I feel the love and I feel it burn
+2. I feel the love and I feel it burn
 Down this river, every turn
 Hope is a four-letter word
 Make that money, watch it burn

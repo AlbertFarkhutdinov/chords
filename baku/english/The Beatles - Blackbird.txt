@@ -16,16 +16,10 @@ F           x-8-x-0-10-x (Fadd9)
 Dm          x5x06x (Dmadd4)
 Gm/Bb       x1x03x
  
- 
-[Intro]
- 
-G Am7 G/B G*
- 
- 
-[Verse]
- 
-G         Am7            G/B     G*
-Blackbird singing in the dead of night
+Intro:|G|Am7|G/B|G*|
+
+    G         Am7            G/B     G*
+1. Blackbird singing in the dead of night
 C          C#dim   D        D#(b5)   Em   Ebaug
 Take these broken wings and learn to fly
 D    Dbdim  C    Cm
@@ -33,26 +27,14 @@ All your   life
 G/B            A7              C/D        G
 You were only waiting for this moment to arise
  
+Interlude:|C|G/B|A7|C/D|G|
  
-[Instrumental]
- 
-C G/B A7   C/D   G
- 
- 
-[Verse]
- 
-G         Am7            G/B     G*
-Blackbird singing in the dead of night
-C          C#dim   D       D#(b5)   Em   Ebaug
+2. Blackbird singing in the dead of night
 Take these sunken eyes and learn to see
-D    Dbdim  C    Cm
-All your   life
-G/B            A7              C/D          G
+All your life
 You were only waiting for this moment to be free
  
- 
-[Chorus]
- 
+Chorus:
 F  Em  Dm  C  Gm/Bb  C
 Black-bird,  fly
 F  Em  Dm  C  Gm/Bb  A7
@@ -60,40 +42,19 @@ Black-bird,  fly
          C/D                    G Am7 G/B
 Into the light of the dark black night
  
- 
-[Instrumental]
- 
+Interlude:
 G*      C C#dim D D#(b5) Em   Ebaug
 D Dbdim C   Cm   G/B   A7   C/D   G
  
- 
-[Chorus]
- 
-F  Em  Dm  C  Gm/Bb   C
-Black-bird,  fly
-F  Em  Dm  C  Gm/Bb   A7
-Black-bird,  fly
-         C/D                    G Am7 G/B
-Into the light of the dark black night
- 
- 
-[Instrumental]
- 
+Chorus.
+
+Interlude:
 G*      G*      G* ...
 G Am7 G/B C G/B A7 C/D
- 
- 
-[Verse]
- 
-G         Am7            G/B     G*
-Blackbird singing in the dead of night
-C          C#dim   D        D#(b5)   Em   Ebaug
+
+3. Blackbird singing in the dead of night
 Take these broken wings and learn to fly
-D    Dbdim  C   Cm
 All your  life
-G/B            A7              C/D        G
 You were only waiting for this moment to arise
-C        G/B  A7               C/D        G
 You were only waiting for this moment to arise
-C         G/B    A7            C/D        G
 You were only waiting for this moment to arise
