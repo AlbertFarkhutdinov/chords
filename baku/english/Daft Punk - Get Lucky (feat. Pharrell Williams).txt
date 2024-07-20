@@ -1,24 +1,24 @@
-Вступление(x2):|Hm|D|F#m|E|
+Intro(x2):|Hm|D|F#m|E|
 
-                           Hm D
-1.Like the legend of the phoenix
+                            Hm  D
+1. Like the legend of the phoenix
                  F#m E
 Our ends were beginnings
 What keeps the planet spinning
 The force from the beginning.
 
-Предприпев:
-Hm                D
+Pre-Chorus:
+ Hm             D
 We've come too far
-        F#m        E
+        F#m       E
 To give up who we are
 So let's raise the bar
 And our cups to the stars
 
-Припев:
+Chorus:
   Hm
 She's up all night 'til the sun
-   D
+    D
 I'm up all night to get some
   F#m
 She's up all night for good fun
@@ -34,14 +34,15 @@ We're up all night to get lucky!
 We're up all night to get lucky!
 We're up all night to get lucky!
 
-Проигрыш:|Hm|D|F#m|E|
+Interlude:|Hm|D|F#m|E|
 
-2.The present has no rhythm
+2. The present has no rhythm
 Your gift keeps on giving
 What is this I'm feeling?
 If you want to leave, I'm with it
 
-Предприпев и припев.
+Pre-Chorus.
+Chorus.
 
 We're up all night to get! (x4)
 
@@ -52,35 +53,9 @@ We're up all night to get lucky
 
 We're up all night to get lucky!(x8)
 
-Предприпев и припев.
+Pre-Chorus.
+Chorus.
 
 We're up all night to get lucky! (x8)
 
-Проигрыш(x2):|Hm|D|F#m|E|
-
---------------------------------------------------
-
-Оригинальная версия:
-
-Вступление(x4).
-Куплет.
-Предприпев.
-Припев.
-Проигрыш.
-Куплет.
-Предприпев.
-Припев(x3).
-
-We're up all night to get! (x8)
-
-We're up all night to get back together
-We're up all night (let's get back together!)
-We're up all night to get funky
-We're up all night to get lucky
-
-We're up all night to get lucky!(x8)
-
-Предприпев.
-Припев.
-We're up all night to get lucky! (x16)
-Проигрыш(x4).
+Outro(x2):|Hm|D|F#m|E|
