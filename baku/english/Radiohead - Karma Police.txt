@@ -1,13 +1,13 @@
 Intro:|Am|D/F#|Em|G|
       |Am|F|Em|G|
-      |Am|D|G|D/F#|C|Em/B|
-      |Am|Am|Bm|D|
+      |Am|D|G|D/F#|C|Em/H|
+      |Am|Am|Hm|D|
 
-Am     D/F# Em     G          Am
+   Am    D/F#  Em   G          Am
 1. Karma Police, arrest this man
-    F        Em       G               Am
+     F       Em        G               Am
 He talks in maths, he buzzes like a fridge
-      D      G D/F#  C   Em/B Am    Bm  D
+      D      G D/F#  C   Em/H Am    Hm  D
 He's like a detuned ra - di - o
  
 Karma Police, arrest this girl
@@ -15,12 +15,12 @@ Her Hitler hairdo is making me feel ill
 And we have crashed her  party - y
  
 Chorus:
-C         D           G   F#7
+  C      D           G   F#7
 This is what you'll get
 This is what you'll get
-C         D           G
+ C         D           G
 This is what you'll get
-         Bm        C    Bm  D
+          Hm        C    Hm  D
 When you mess with us
  
 2. Karma Police, I've given all I can
@@ -30,17 +30,17 @@ But we're still on the payro - oll.
 Chorus.
 
 Bridge:
-Bm       D      G
+ Hm      D     G
 For a minute there
-  D      G       D      E7    E7
+    D     G       D      E7
 I lost myself, I lost myself
 Phew, for a minute there
 I lost myself, I lost myself
  
-Interlude:|Bm|D|G|D|
+Interlude:|Hm|D|G|D|
           |G|D|E7|E7|
  
 Bridge.
  
-Outro(x3):|Bm|D|G|D|
+Outro(x2):|Hm|D|G|D|
           |G|D|E7|E7|

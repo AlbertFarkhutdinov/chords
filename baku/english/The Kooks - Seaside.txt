@@ -1,13 +1,13 @@
-Capo 1st fret
+Capo on 2nd fret.
 
-Intro:|Dm|C|G|G/F|
-
-  Dm                          F
+Intro:|C#m|
+ 
+    C#m                         E
 1. Do you want to go to the seaside?
-    A#                     C
-I'm not trying to say that everybody wants to 
-go. I fell in love at the seaside
-  A#                    C                  G         G/F
+     A                     H
+I'm not trying to say that everybody wants to go.
+I fell in love at the seaside
+   A                     H                  F# F#/E
 I handled my charm with time and slight of hand
  
 2. Do you want to go to the seaside?
@@ -16,15 +16,15 @@ I fell in love at the seaside
 She handled her charm with time and slight of hand, hand, hand..
  
 Bridge:
-Dm                           A#           C
-But i'm just trying to love you any  kind of way
-Dm                          A#                      C      G            G/F
-But i find it hard to love you girl when your  far awa-a-ay, away
+ C#m                    A          H
+But i'm just trying to love you any kind of way
+ C#m                    A                      H   F#         F#/E
+But i find it hard to love you girl when your far awa-a-ay, away
  
 Outro:
-Dm                          F
+ C#m                         E
 Do you want to go to the seaside?
-    A#                      C
+     A                      H
 I'm not trying to sing that everybody wants to go.
-Dm                            F      A#       F      A#       F
+ C#m                       E       A       E      A       E
 But I fell in love on the seaside, on the seaside, on the seaside.

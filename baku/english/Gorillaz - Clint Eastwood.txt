@@ -1,6 +1,6 @@
 Riff:|D#m|D#m/B|D#m|D#m/B|D#m|D#m/B|D#m|E/H|
 
-Intro.
+Intro: Riff.
 
 Chorus(x2):
 I ain't happy, I'm feeling glad.
@@ -39,7 +39,7 @@ I'm in them. Every sprouting tree, every child of piece,
 Every cloud and see, You see with your eyes
 I see destruction and demise, Corruption in disguise
 From this fuckin' enterprise Now I'm sucking to your lies
-Through Russel, though not his muscles but the percussion he provides.
+Through Russel, not his muscles but percussion he provides.
 
 With me as a guide, y'all can see me now cos you don't 
 See with your eye you perceive with your mind
@@ -54,13 +54,21 @@ Chorus(x2).
 
 It's coming on! (x4)
 
+Bridge(x2):
 My future is coming on!
 It's coming on!
 It's coming on!
+It's coming on!
+It's coming on!
+
+Bridge(x3):
 My future is coming on!
 It's coming on!
 It's coming on!
+
 My future!
+
+Outro(x4): Riff
 
 D#m xx434x
 E   xx645x

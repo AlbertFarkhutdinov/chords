@@ -1,33 +1,32 @@
-Chord forms which are actually fingerpicked :
-G           3xx00x
-Am7         x0x01x
-G/B         x2x03x
-G*          x-10-x-0-12-x
-C           x3x05x
-C#dim/Dbdim x4x0x3
-D           x5x07x (Dadd4)
-D#(b5)      x6x0x5
-Em          x7x08x
-Ebaug       x6x08x (implied, no 5th is played)
-Cm          x3x04x
-A7          x0x02x
-C/D         xx001x (no 3rd = D7sus4)
-F           x-8-x-0-10-x (Fadd9)
-Dm          x5x06x (Dmadd4)
-Gm/Bb       x1x03x
+G           3  x x 0  0 x
+Am7         x  0 x 0  1 x
+G/B         x  2 x 0  3 x
+G*          x 10 x 0 12 x
+C           x  3 x 0  x 0
+C#dim		x  4 x 0  x 3
+D           x  x 0 0  x 2
+D#b5        x  6 x 0  x 5
+Em          x  7 x 0  8 x
+D#(no5)     x  6 x 0  8 x
+Cm          x  3 x 0  4 x
+A7          x  0 x 0  2 x
+D7sus4(no5) x  x 0 0  1 x
+Fadd9       x  x 3 0  x 5
+Dmadd11     x  x 0 0  x 1
+Gm/A#       x  1 x 0  3 x
  
 Intro:|G|Am7|G/B|G*|
 
-    G         Am7            G/B     G*
+      G       Am7            G/B     G*
 1. Blackbird singing in the dead of night
-C          C#dim   D        D#(b5)   Em   Ebaug
+ C           C#dim   D        D#b5   Em D#(no5)
 Take these broken wings and learn to fly
-D    Dbdim  C    Cm
-All your   life
-G/B            A7              C/D        G
+ D   C#dim  C Cm
+All your life
+ G/B           A7               D7sus4(no5) G
 You were only waiting for this moment to arise
  
-Interlude:|C|G/B|A7|C/D|G|
+Interlude:|C|G/B|A7|D7sus4(no5)|G|
  
 2. Blackbird singing in the dead of night
 Take these sunken eyes and learn to see
@@ -35,26 +34,24 @@ All your life
 You were only waiting for this moment to be free
  
 Chorus:
-F  Em  Dm  C  Gm/Bb  C
+ Fadd9  Em Dmadd11 C Gm/A# C
 Black-bird,  fly
-F  Em  Dm  C  Gm/Bb  A7
+ Fadd9  Em Dmadd11 C Gm/A# A7
 Black-bird,  fly
-         C/D                    G Am7 G/B
+          D7sus4(no5)             G Am7 G/B G*
 Into the light of the dark black night
  
-Interlude:
-G*      C C#dim D D#(b5) Em   Ebaug
-D Dbdim C   Cm   G/B   A7   C/D   G
+Interlude = Verse
  
 Chorus.
 
-Interlude:
-G*      G*      G* ...
-G Am7 G/B C G/B A7 C/D
+Interlude:|G|Am7|G/B|C|G/B|A7|D7sus4(no5)|
 
 3. Blackbird singing in the dead of night
 Take these broken wings and learn to fly
 All your  life
 You were only waiting for this moment to arise
+ C G/B           A7               D7sus4(no5) G
 You were only waiting for this moment to arise
+ C G/B           A7               D7sus4(no5) G
 You were only waiting for this moment to arise

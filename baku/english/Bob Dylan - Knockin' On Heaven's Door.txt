@@ -1,16 +1,16 @@
-Intro(x2):|G|D|Am|G|D|C|
+Intro(x2):|G|D|Am|Am|G|D|C|C|
 
   G                D                Am
 1. Mama take this badge off of me.
-G         D               C
+ G         D          C
 I can't use it anymore.
 It's getting dark, too dark to see.
-I feel I'm knockin on heaven's door.
+Feel I'm knockin on heaven's door.
  
 Chorus(x2):
-G               D                    Am
+  G             D                   Am
 Knock, knock, knockin' on heaven's door
-G               D                    C
+  G             D                   C
 Knock, knock, knockin' on heaven's door
  
 2. Mama put my guns in the ground.
@@ -20,4 +20,4 @@ I feel I'm knockin' on heaven's door.
  
 Chorus(x2).
  
-Outro:|G|D|Am|G|
+Outro:|G|D|Am|Am|G|D|C|C|

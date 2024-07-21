@@ -36,11 +36,9 @@ Hardcore soft porn
  
 Chorus:
   C            G     Dm    Am
-Dream of Californication
+Dream of Californication.
   C            G    Dm
-Dream of Californication
-Dream of Californication
-Dream of Californication
+Dream of Californication.
 
 Interlude:|Am|F|Am|F|
 
@@ -63,25 +61,23 @@ It's Californication
 Interlude:|Am|Fmaj7|Am|Fmaj7|
  
 Pre-Chorus 2:
- Am
 Born and raised by those who praise
-   Fmaj7
 Control of population
- Am
 Everybody's been there and
-   Fmaj7
 I don't mean on vacation
- Am                Fmaj7
 First born unicorn
- Am                Fmaj7
 Hardcore soft porn
  
-Chorus.
+Chorus(x2).
 
-Solo:|F#m|D|F#m|D|
-     |Bm|D|A|E|F#m|D|
-     |F#m|D|Bm|D|A|E|
-     |Bm|D|A|E|Bm|D|A|E|
+Solo:|F#m|F#m|D|D|
+     |F#m|F#m|D|D|
+     |Hm|D|A|E|
+	 |F#m|F#m|D|D|
+     |F#m|F#m|D|D|
+     |Hm|D|A|E|
+     |Hm|D|A|E|
+     |Hm|D|A|E|
 
 Interlude:|Am|F|Am|F|
  
@@ -95,17 +91,11 @@ From Californication
 Interlude:|Am|Fmaj7|Am|Fmaj7|
  
 Pre-Chorus 3:
- Am
 Pay your surgeon very well
-   Fmaj7
 To break the spell of aging
- Am
 Sicker than the rest, there is no test
-    Fmaj7
 But this is what you're craving
-Am                Fmaj7
 First born unicorn
-Am                Fmaj7
 Hardcore soft porn
  
-Chorus.
+Chorus(x2).
